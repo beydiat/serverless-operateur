@@ -1,0 +1,14 @@
+{
+  "name": "services-api",
+  "version": "1.0.0",
+  "description": "services-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BAT",
+  "license": "ISC",
+  "dependencies": {
+    "serverless-offline": "^6.1.2"
+  }
+}
