@@ -9,6 +9,6 @@
   "author": "BAT",
   "license": "ISC",
   "dependencies": {
-    "serverless-offline": "^6.1.2"
+    "serverless-offline": "^11.1.3"
   }
 }
